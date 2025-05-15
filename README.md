@@ -68,3 +68,4 @@ Made with 💻 by **TheYali1**
 Use at your own risk. This script makes system-level changes.  
 Create a restore point if you’re unsure.
 
+![screenshot](https://i.imagesup.co/images2/c5a85f8e1ef9d2066a581ad2d737a27f58ed3c0c.png)
