@@ -1,0 +1,52 @@
+Windows Registry Editor Version 5.00
+
+; Created with Winaero Tweaker 1.63.0.0
+; https://winaero.com
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\FortniteClient-Win64-Shipping.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000002
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:00000000
+
+
+
+[HKEY_CURRENT_USER\System\GameConfigStore]
+
+"GameDVR_Enabled"=dword:00000001
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR]
+
+"value"=dword:00000001
+
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\MMCSS]
+"Start"=dword:00000002
+
+
+
+
+
+[HKEY_CURRENT_USER\System\GameConfigStore]
+
+"GameDVR_FSEBehaviorMode"=dword:00000002
+
+"GameDVR_HonorUserFSEBehaviorMode"=dword:00000000
+
+"GameDVR_FSEBehavior"=dword:00000000
+
+"GameDVR_DXGIHonorFSEWindowsCompatible"=dword:00000000
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="Medium"
+"SFIO Priority"="Normal"
+
+
